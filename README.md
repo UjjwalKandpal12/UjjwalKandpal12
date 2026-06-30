@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/UjjwalKandpal12](https://github.com/UjjwalKandpal12)
 
-- Linkedin [linkedin.com/in/ujjwal-kandpal-6996842a8](linkedin.com/in/ujjwal-kandpal-6996842a8)
+- Linkedin https://www.linkedin.com/in/ujjwal-kandpal-6996842a8/
 
 - Currently sharpening **Data Structures & Algorithms in Java**
 
